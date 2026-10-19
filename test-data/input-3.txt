@@ -1,0 +1,3 @@
+# SINGLE mód, a primary tároló üres, így automatikusan a secondary sül el
+GT4500,0,0,10,0
+TORPEDO,SINGLE  # a primary üres, a secondary lő

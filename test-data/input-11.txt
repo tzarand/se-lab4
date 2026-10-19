@@ -1,0 +1,3 @@
+# ALL mód, a primary üres, a secondary be van töltve
+GT4500,0,0,10,0
+TORPEDO,ALL
