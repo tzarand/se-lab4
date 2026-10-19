@@ -1,0 +1,3 @@
+# ALL mód, csak a primary tároló van betöltve
+GT4500,10,0,0,0
+TORPEDO,ALL  # a primary elsül, a secondary üres

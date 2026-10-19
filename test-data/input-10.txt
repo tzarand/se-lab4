@@ -1,0 +1,4 @@
+# 1 torpedó a primary-ben, 0 a secondary-ben
+GT4500,1,0,0,0
+TORPEDO,SINGLE  
+TORPEDO,SINGLE  

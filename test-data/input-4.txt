@@ -1,0 +1,3 @@
+# SINGLE mód, hiba a primary elsütésekor
+GT4500,10,100,10,0
+TORPEDO,SINGLE  # a primary hibára fut, nem próbálja a másikat

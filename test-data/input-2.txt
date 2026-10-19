@@ -1,0 +1,4 @@
+# SINGLE mód, váltakozó lövés (a második lövés a secondary-ből jön)
+GT4500,10,0,10,0
+TORPEDO,SINGLE  # a primary tárolóból lő
+TORPEDO,SINGLE  # a secondary tárolóból lő

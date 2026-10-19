@@ -1,0 +1,3 @@
+# ALL mód, mindkét tároló betöltve
+GT4500,10,0,10,0
+TORPEDO,ALL  # mindkét tárolóból lő
